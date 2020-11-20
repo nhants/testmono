@@ -1,6 +1,6 @@
 {
   "name": "utils",
-  "version": "1.0.1-alpha.0",
+  "version": "1.0.1",
   "private": true,
   "description": "> TODO: description",
   "author": "nhan <nhan@trustingsocial.com>",
@@ -17,7 +17,6 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
     "hello": "echo \"Hello from util\""
-
   },
   "dependencies": {
     "lodash": "^4.17.20"
