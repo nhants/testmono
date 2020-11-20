@@ -7,7 +7,9 @@ const utils = require('@nhants/utils')
 const sum = utils()
 
 function app() {
-  return sum(3,2)
+  const res = sum(3,2)
+  console.log('sum', res)
+  return res
 }
 
 app()
