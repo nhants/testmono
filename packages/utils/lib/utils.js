@@ -4,7 +4,7 @@ module.exports = utils;
 
 function utils() {
     // TODO
-  function sum (a, b) {
+  return function sum (a, b) {
     return a + b
   }
 }
