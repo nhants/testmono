@@ -6,6 +6,9 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/app.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -19,5 +22,5 @@
   "dependencies": {
     "lodash": "^4.17.20"
   },
-  "gitHead": "858408c3e95a8b5c3fd8cc53202bb301da530786"
+  "gitHead": "8cc98be18e61b780ea096784651b9cf954c6c92b"
 }
