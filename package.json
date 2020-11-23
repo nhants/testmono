@@ -1,7 +1,22 @@
 {
-  "name": "root",
+  "name": "lerna-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "private": true,
-  "devDependencies": {
-    "lerna": "^3.22.1"
-  }
+  "workspaces": ["packages/*"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhants/testmono.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhants/testmono/issues"
+  },
+  "homepage": "https://github.com/nhants/testmono#readme"
 }

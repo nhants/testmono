@@ -1,28 +1,18 @@
 {
-  "name": "@nhants/app",
-  "version": "1.0.6",
-  "description": "> TODO: description",
-  "author": "nhan <nhan@trustingsocial.com>",
-  "homepage": "",
-  "license": "ISC",
-  "main": "lib/app.js",
-  "publishConfig": {
-    "access": "public"
-  },
-  "directories": {
-    "lib": "lib",
-    "test": "__tests__"
-  },
-  "files": [
-    "lib"
-  ],
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1",
     "hello": "echo \"Hello from app\""
   },
   "dependencies": {
-    "@nhants/utils": "^1.0.3",
-    "lodash": "^4.17.20"
+    "cross-env": "5.0.5",
+    "utils": "1.0.0"
   },
-  "gitHead": "8cc98be18e61b780ea096784651b9cf954c6c92b"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
 }

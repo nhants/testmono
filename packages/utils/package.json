@@ -1,24 +1,16 @@
 {
-  "name": "@nhants/utils",
-  "version": "1.0.3",
-  "private": true,
-  "description": "> TODO: description",
-  "author": "nhan <nhan@trustingsocial.com>",
-  "homepage": "",
-  "license": "ISC",
-  "main": "lib/utils.js",
-  "directories": {
-    "lib": "lib",
-    "test": "__tests__"
-  },
-  "files": [
-    "lib"
-  ],
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1",
-    "hello": "echo \"Hello from util\""
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "echo \"Hello from utils\""
   },
   "dependencies": {
-    "lodash": "^4.17.20"
-  }
+    "cross-env": "5.0.5"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
