@@ -1,6 +1,6 @@
 {
   "name": "@nhants/app",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "> TODO: description",
   "author": "nhan <nhan@trustingsocial.com>",
   "homepage": "",
@@ -21,7 +21,7 @@
     "hello": "echo \"Hello from app\""
   },
   "dependencies": {
-    "@nhants/utils": "1.0.2",
+    "@nhants/utils": "^1.0.3",
     "lodash": "^4.17.20"
   },
   "gitHead": "8cc98be18e61b780ea096784651b9cf954c6c92b"
