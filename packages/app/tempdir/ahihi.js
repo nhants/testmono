@@ -1,3 +1,3 @@
 module.exports = function() {
-  console.log('ahihi')
+  console.log('ahihihihihihihi')
 }
